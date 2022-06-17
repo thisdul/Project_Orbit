@@ -1,0 +1,151 @@
+kota_kabupaten,kasus_positif_total,total_meninggal,masih_sakit,total_sembuh,tingkat_resiko
+Kota Padang,25.421,424,1,24.996,Resiko Tinggi
+Kab. Agam,4.475,115,104,4.256,Resiko Tinggi
+Kab. Tanah Datar,2.818,87,64,2.667,Resiko Rendah
+Kota Bukittinggi,2.566,52,26,2.488,Resiko Rendah
+Kab. Padang Pariaman,2.148,93,78,1.977,Resiko Tinggi
+Kab. Pesisir Selatan,2.127,68,53,2.006,Resiko Rendah
+Kab. Solok,2.052,70,52,1.930,Resiko Rendah
+Kab. Limapuluh Kota,1.768,49,33,1.686,Resiko Rendah
+Kota Payakumbuh,1.672,28,13,1.631,Resiko Rendah
+Kota Padang Panjang,1.666,31,11,1.624,Resiko Rendah
+Kab. Sijunjung,1.509,43,10,1.456,Resiko Rendah
+Kab. Dharmasraya,1.373,26,14,1.333,Resiko Rendah
+Kota Solok,1.371,29,17,1.325,Resiko Rendah
+Kab. Pasaman Barat,1.247,76,65,1.106,Resiko Tinggi
+Kab. Solok Selatan,1.081,18,8,1.055,Resiko Rendah
+Kota Pariaman,1.043,20,12,1.011,Resiko Rendah
+Kota Sawahlunto,890,18,9,863,Resiko Rendah
+Kab. Kepulauan Mentawai,834,1,0,833,Resiko Rendah
+Kab. Pasaman ,662,37,31,594,Resiko Tinggi
+Kota Palembang,43.905,1.318,14,42.544,Resiko Tinggi
+Kab. Muara Enim,5.015,265,0,4.749,Resiko Tinggi
+Kab. Banyuasin,4.042,182,5,3.851,Resiko Rendah
+Kota Lubuk Linggau,3.519,94,0,3.425,Resiko Rendah
+Kab. Musi Banyuasin,3.327,151,4,3.172,Resiko Rendah
+Kab. Ogan Komering Ulu Timur,3.218,293,4,2.922,Resiko Tinggi
+Kota Prambumulih,3.090,195,3,2.892,Resiko Rendah
+Kab. Musi Rawas,2.992,92,8,2.892,Resiko Tinggi
+Kab. Lahat,2.971,141,0,2.83,Resiko Rendah
+Kab. Ogan Ilir,1.661,95,1,1.565,Resiko Rendah
+Kab. Ogan Komering Ulu,1.176,110,0,1.066,Resiko Rendah
+Kab. Penukal Abab Lematang Illir,1.104,81,0,1.022,Resiko Rendah
+Kab. Musi Rawas Utara,1.066,58,0,1.008,Resiko Rendah
+Kab. Ogan Komering Ilir,1.022,95,0,927,Resiko Rendah
+Kota Pagar Alam,917,49,0,868,Resiko Rendah
+Kab. Ogan Komering Ulu Selatan,813,85,0,728,Resiko Rendah
+Kab Empat Lawang,592,38,0,554,Resiko Rendah
+Kota Medan,72.912,1.018,42,71.825,Resiko Tinggi
+Kota Binjai,25.725,143,0,25.582,Resiko Rendah
+Kabupaten Deli Serdang,8.806,214,0,8.592,Resiko Tinggi
+Kabupaten Tapanuli Utara,5.001,80,0,4.921,Resiko Rendah
+Kabupaten Humbang Hasundutan,3.615,33,478,3.104,Resiko Tinggi
+Kabupaten Serdang Bedagai,3.025,256,5,2.764,Resiko Tinggi
+Kabupaten Dairi,2.963,107,4,2.852,Resiko Tinggi
+Kota Pematang Siantar,2.550,33,0,2.517,Resiko Rendah
+Kabupaten Labuhanbatu,2.319,84,4,2.231,Resiko Rendah
+Kabupaten Tapanuli Selatan,1.935,45,83,1.807,Resiko Tinggi
+Kabupaten Samosir,1.849,34,0,1.815,Resiko Rendah
+Kabupaten Labuhanbatu Utara,1.773,79,0,1.694,Resiko Rendah
+Kabupaten Asahan,1.718,30,0,1.688,Resiko Rendah
+Kabupaten Langkat,1.573,49,78,1.446,Resiko Tinggi
+Kota Tebing Tinggi,1.572,74,1,1.496,Resiko Rendah
+Kabupaten Karo,1.504,58,0,1.446,Resiko Rendah
+Kabupaten Labuhanbatu Selatan,1.438,71,0,1.367,Resiko Rendah
+Kabupaten Tapanuli Tengah,1.179,18,0,1.161,Resiko Rendah
+Kabupaten Mandailing Natal,1.164,45,0,1.119,Resiko Rendah
+Kabupaten Batu Bara,931,8,0,923,Resiko Rendah
+Kota Tanjung Balai,614,29,0,585,Resiko Tinggi
+Kabupaten Pakpak Bharat,557,33,0,524,Resiko Tinggi
+Kota Padang Sidempuan,519,3,0,516,Resiko Rendah
+Kabupaten Padang Lawas Utara,513,29,0,484,Resiko Rendah
+Kabupaten Padang Lawas,121,3,0,118,Resiko Rendah
+Kota Gunungsitoli,115,3,0,112,Resiko Rendah
+Kabupaten Toba Samosir,53,1,4,48,Resiko Tinggi
+Kabupaten Nias Utara,37,0,4,33,Resiko Rendah
+Kabupaten Nias,12,0,0,12,Resiko Rendah
+Kota Pekanbaru,63.175,1.375,11,61.789,Resiko Tinggi
+Kota Dumai,11.522,262,4,11.256,Resiko Tinggi
+Kabupaten Siak,10.456,330,4,10.122,Resiko Tinggi
+Kabupaten Kampar,10.176,431,2,9.743,Resiko Rendah
+Kabupaten Bengkalis,9.686,440,1,9.245,Resiko Rendah
+Kabupaten Indragiri Hulu,7.164,219,0,6.945,Resiko Rendah
+Kabupaten Indragiri Hilir,6.158,198,2,5.958,Resiko Rendah
+Kabupaten Kuantan Singingi,6.029,176,1,5.852,Resiko Rendah
+Kabupaten Rokan Hulu ,5.930,372,0,5.558,Resiko Rendah
+Kabupaten Rokan Hilir,5.669,228,0,5.441,Resiko Rendah
+Kabupaten Pelalawan,3.788,198,2,3.588,Resiko Rendah
+Kabupaten Kepulauan Meranti,2.294,84,0,2.210,Resiko Rendah
+Kota Batam,31.050,912,1,30.137,Resiko Rendah
+Kota Tanjung Pinang,13.239,432,7,12.800,Resiko Tinggi
+Kabupaten Bintan ,7.036,200,5,6.831,Resiko Tinggi
+Kabupaten Karimun ,6.329,177,3,6.149,Resiko Rendah
+Kabupaten Natuna,2.922,46,1,2.875,Resiko Rendah
+Kabupaten Lingga,2.445,88,0,2.357,Resiko Rendah
+Kabupaten Kepulauan Anambas,2.158,49,0,2.109,Resiko Rendah
+Kota Bandar Lampung,16.837,840	,15,15.982,Resiko Tinggi
+Kabupaten Lampung Timur,7.862,642,14,7.206,Resiko Tinggi
+Kabupaten Lampung Selatan,7.171,269,3,6.899,Resiko Rendah
+Kabupaten Lampung Tengah,6.433,640,1,5.792,Resiko Rendah
+Kabupaten Lampung Utara ,5.540,199,114,5.227,Resiko Tinggi
+Kabupaten Pringsewu,5.405,367,1,5.037,Resiko Rendah
+Kabupaten Lampung Barat,4.170,151,118,3.901,Resiko Tinggi
+Kabupaten Pesawaran ,3.880,255,1,3.624,Resiko Rendah
+Kabupaten Tanggamus,3.854,144,1,3.709,Resiko Rendah
+Kota Metro,3.570,200,1,3.369,Resiko Rendah
+Kabupaten Tulang Bawang Barat,2.006,142,3,1.861,Resiko Rendah
+Kabupaten Tulang Bawang ,1.779,94,1,1.684,Resiko Rendah
+Kabupaten Way Kanan,1.725,76,1,1.648,Resiko Rendah
+Kabupaten Pesisir Barat,1.495,46,1,1.448,Resiko Rendah
+Kabupaten Mesuji,1.206,59,1,1.146,Resiko Rendah
+Kota Jambi,5.602,99,1.111,3.852,Resiko Tinggi
+Kabupaten Muaro Jambi,2.415,20,486,1.909,Resiko Tinggi
+Kabupaten Batang Hari,1.826,48,568,1.210,Resiko Tinggi
+Kabupaten Tanjung Jabung Barat,1.325,32,116,1.177,Resiko Tinggi
+Kabupaten Tebo,1.086,36,85,965,Resiko Rendah
+Kabupaten Bungo,1.043,9,181,853,Resiko Tinggi
+Kabupaten Sungaipenuh,910,11,125,774,Resiko Tinggi
+Kabupaten Merangin,909,44,32,833,Resiko Rendah
+Kabupaten Tanjung Jabung Timur,842,4,113,725,Resiko Tinggi
+Kabupaten Sarolangun,658,36,23,599,Resiko Rendah
+Kabupaten Kerinci,384,12,60,312,Resiko Rendah
+Kota Pangkal Pinang,7.080,91,532,6.457,Resiko Tinggi
+Kab. Bangka,5.380,108,0,5.272,Resiko Rendah
+Kab. Belitung,3.544,78,381,3.085,Resiko Tinggi
+Kab. Bangka Tengah,3.301,78,323,2.900,Resiko Tinggi
+Kab. Bangka Barat,3.067,48,236,2.783,Resiko Tinggi
+Kab. Belitung Timur,1.775,19,214,1.542,Resiko Tinggi
+Kab. Bangka Selatan,1.391,35,141,1.215,Resiko Tinggi
+Kota Banda Aceh,13.498,361,3,13.134,Resiko Rendah
+Kabupaten Aceh Besar,6.638,327,1,6.310,Resiko Rendah
+Kabupaten Pidie,3.307,314,1,2.992,Resiko Rendah
+Kabupaten Aceh Tamiang,2.072,160,0,1.912,Resiko Rendah
+Kabupaten Bireuen,1.923,115,2,1.806,Resiko Rendah
+Kota Lhokseumawe,1.901,86,1,1.814,Resiko Rendah
+Kabupaten Aceh Tengah,1.610,79,2,1.529,Resiko Rendah
+Kabupaten Aceh Barat,1.340,69,0,1.271,Resiko Rendah
+Kota Langsa,1.240,95,0,1.145,Resiko Rendah
+Kabupaten Aceh Utara ,1.200,108,5,1.087,Resiko Rendah
+Kabupaten Aceh Selatan,971,81,0,890,Resiko Rendah
+Kabupaten Aceh Singkil,870,37,0,833,Resiko Rendah
+Kabupaten Pidie Jaya,858,37,0,821,Resiko Rendah
+Kabupaten Gayo Lues,783,31,0,752,Resiko Rendah
+Kota Sabang,661,51,1,609,Resiko Rendah
+Kabupaten Nagan Raya,618,65,0,553,Resiko Rendah
+Kabupaten Aceh Timur ,596,52,2,542,Resiko Rendah
+Kabupaten Bener Meriah,579,21,1,557,Resiko Rendah
+Kabupaten Aceh Jaya,569,30,0,539,Resiko Rendah
+Kabupaten Simeulue,523,21,0,502,Resiko Rendah
+Kabupaten Aceh Barat Daya,435,31,1,403,Resiko Rendah
+Kabupaten Aceh Tenggara,396,22,0,374,Resiko Rendah
+Kota Subulussalam,362,20,0,342,Resiko Rendah
+Kota Bengkulu,11.889,167,2,11.720,Resiko Rendah
+Kab. Rejang Lebong,4.328,36,1,4.291,Resiko Rendah
+Kab. Bengkulu Utara,3.866,85,0,3.781,Resiko Rendah
+Kab. Muko Muko,2.288,27,0,2.261,Resiko Rendah
+Kab. Kepahiang,2.203,30,0,2.173,Resiko Rendah
+Kab. Bengkulu Tengah,1.131,32,0,1.099,Resiko Tinggi
+Kab. Bengkulu Selatan,1.098,34,0,1.064,Resiko Tinggi
+Kab. Seluma,859,26,3,830,Resiko Tinggi
+Kab. Lebong,830,4,0,826,Resiko Rendah
+kab. Kaur,622,9,0,613,Resiko Rendah
